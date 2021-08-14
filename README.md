@@ -2,7 +2,7 @@
 The REST API to transfer logs from servers to the panel.
 
 # Preqrequisites
- * Python 3.7+
+ * Python 3.9.x
 
 # Installation
 Run `py -m pip install -r requirements.txt` in a terminal in the directory of the program.
