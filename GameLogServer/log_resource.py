@@ -2,7 +2,6 @@ from flask_restful import Resource
 from GameLogServer.log_reader import reader
 from base64 import urlsafe_b64decode
 
-
 class LogResource(Resource):
     @staticmethod
     def get(path, retrieval_key):

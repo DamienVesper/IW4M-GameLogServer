@@ -4,7 +4,6 @@ import time
 import random
 import string
 
-
 class LogReader(object):
     def __init__(self):
         self.log_file_sizes = {}

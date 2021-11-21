@@ -5,7 +5,6 @@ import logging
 
 app = Flask(__name__)
 
-
 def init():
     log = logging.getLogger('werkzeug')
     log.setLevel(logging.ERROR)
