@@ -1,7 +1,7 @@
 # IW4M-Admin Game Log Server
 The REST API to transfer logs from servers to the panel.
 
-# Preqrequisites
+# Prerequisites
  * Python 3.9
 
 # Installation
